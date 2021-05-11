@@ -1,0 +1,164 @@
+#img
+{
+    height:"73";
+    width:"80";
+    position:absolute;
+    top:50px;
+    left:40px;
+    visibility:visible z-index 1;
+    cursor: pointer;
+}
+
+.l1
+{
+    position:absolute;
+    top:80px;
+    left:200px;
+    visibility:visible z-index 1;
+    list-style:none;
+}
+
+.l2
+{
+    left:300px;
+}
+
+.l3
+{
+    left:360px;
+}
+
+.l4
+{
+    left:430px;
+}
+
+.l5
+{
+    left:570px;
+}
+
+.l6
+{
+    left:730px;
+}
+
+.l7
+{
+    left:810px;
+}
+
+.blanco
+{
+    color: white;
+    font-family:helvetica;
+    position: relative;
+    align-self: center;
+    text-decoration: none;
+    white-space:pre-line;
+    cursor: pointer;
+}
+
+.img
+{
+    width: 1675px;
+    height: 500px;
+}
+
+h1
+{
+    color: red;
+    font-family:helvetica;
+    font-size: 130px;
+    text-align: center;
+    position:absolute;
+    top:40px;
+    left:120px;
+    visibility:visible z-index 1
+}
+
+h2
+{
+    color: white;
+    font-family:helvetica;
+    font-size: 50px;
+    position:absolute;
+    top:520px;
+    left:700px;
+
+}
+
+.p1
+{
+    color: white;
+    font-family:helvetica;
+    font-size: 30px;
+    text-align: center;
+    position:absolute;
+    top:680px;
+    left:450px;
+    visibility:visible z-index 1
+}
+
+.p2
+{
+    text-align: justify;
+    position:absolute;
+    top:780px;
+    left: 50px;
+    margin-right: 50px;
+    visibility:visible z-index 1;
+}
+
+.tx
+{
+    color:white;
+    font-family:helvetica;
+    font-size: 30px;
+    text-align:center;
+    position:absolute;
+    top:1100px;
+    left:600px;
+    visibility:visible z-index 1;
+}
+
+.tx1
+{
+
+    text-align: justify;
+    position:absolute;
+    top:1200px;
+    left:450px;
+    margin-right: 450px;
+    visibility:visible z-index 1;
+}
+
+.top_dot
+{
+    position: relative;
+    color: white;
+    top: -100px;
+    left: 700px;
+    width: 250px;
+    height: 30px;
+    background:red;
+    cursor: pointer;
+}
+
+.letra
+{
+    color: black;
+    font-family:helvetica;
+    font-size: 20px;
+    text-align: center;
+}
+
+aside
+{
+    background-color: black;
+}
+
+video
+{
+    margin: -450px auto 0 900px;
+}
